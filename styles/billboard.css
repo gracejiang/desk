@@ -25,6 +25,39 @@
   z-index: 1;
 }
 
+#polaroid-1 {
+  position: absolute;
+  width: 12.136%;
+  height: 29%;
+  z-index: 4;
+  background-color: white;
+  top: 11.2%;
+  left: 1.6%;
+}
+
+#polaroid-2 {
+  position: absolute;
+  width: 12.136%;
+  height: 29%;
+  z-index: 4;
+  background-color: white;
+  top: 15%;
+  left: 15%;
+}
+
+.polaroid-pic {
+  position: absolute;
+  top: 9%;
+  left: 8.75%;
+  width: 82.5%;
+  height: 66%;
+  background-size: cover;
+}
+
+#pic-2 {
+  background-image: url('assets/polaroid-2.png');
+}
+
 #todo-list {
   font-family: "Caveat", monospace;
   position: absolute;
