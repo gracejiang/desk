@@ -45,4 +45,32 @@
     background-image: none;
     background-color: #D9D9D9;
   }
+
+  #dean, #kezai, #dcaesar, #hitc, #iu, #hyukoh {
+    background-image: none;
+  }
+
+  #dean {
+    background-color: #B24894;
+  }
+
+  #kezai {
+    background-color: #6C8A94;
+  }
+
+  #dcaesar {
+    background-color: #5E7C99;
+  }
+
+  #hitc {
+    background-color: #F6F1F7;
+  }
+
+  #iu {
+    background-color: #FFFFFF;
+  }
+
+  #hyukoh {
+    background-color: #000000;
+  }
 }

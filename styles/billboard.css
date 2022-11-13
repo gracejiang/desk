@@ -208,40 +208,47 @@
   width: 47%;
   height: 28.5%;
   border-radius: 10%;
+  background-size: cover;
 }
 
 #dean {
   position: absolute;
   left: 0;
   top: 0;
+  background-image: url("../assets/album_art/dean.png");
 }
 
 #kezai {
   position: absolute;
   right: 0;
   top: 0;
+  background-image: url("../assets/album_art/kezai.png");
 }
 
 #dcaesar {
   position: absolute;
   left: 0;
   top: 33%;
+  background-image: url("../assets/album_art/dcaesar.png");
 }
 
 #hitc {
   position: absolute;
   right: 0;
   top: 33%;
+  background-image: url("../assets/album_art/hitc.png");
 }
 
 #iu {
   position: absolute;
   left: 0;
   top: 66%;
+  background-image: url("../assets/album_art/iu.png");
 }
 
 #hyukoh {
   position: absolute;
   right: 0;
   top: 66%;
+  background-image: url("../assets/album_art/hyukoh.png");
 }
