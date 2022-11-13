@@ -1,5 +1,5 @@
 #desk-section {
-    margin-top: 3vw;
+    margin-top: 5vw;
     width: 100%;
     position: relative;
 }
@@ -23,6 +23,14 @@
     top: -145%;
     width: 9%;
     z-index: 1;
+}
+
+#monitor {
+    position: absolute;
+    left: 27.5%;
+    top: -232%;
+    width: 45%;
+    z-index: 2;
 }
 
 #desk-mat {
