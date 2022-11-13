@@ -27,4 +27,17 @@
   #monitor-window {
     height: 15vw;
   }
+
+  #monitor-window p {
+    display: block;
+    text-align: center;
+    margin-top: 2vw;
+    font-size: 0.8rem;
+    color: #5B5B5B;
+    font-family: "IBM Plex Mono", monospace;
+  }
+
+  #monitor-window iframe {
+    display: none;
+  }
 }

@@ -45,6 +45,10 @@
     padding: 0;
 }
 
+#monitor-window p {
+    display: none;
+}
+
 #monitor-window iframe {
     margin: 0px;
     width: 100%;
