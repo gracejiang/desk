@@ -94,4 +94,8 @@
   margin-left: 10%;
 }
 
-
+#inspo-list p a {
+  color: inherit;
+  border-bottom: 0.1vw dotted;
+  text-decoration: none;
+}
