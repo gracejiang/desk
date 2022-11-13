@@ -252,3 +252,7 @@
   top: 66%;
   background-image: url("../assets/album_art/hyukoh.png");
 }
+
+#pl-krnb, #pl-cpop, #pl-still-nights, #pl-sunset-drives, #pl-kbops {
+  display: none;
+}
