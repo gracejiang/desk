@@ -11,7 +11,7 @@
 
 #marshal {
   position: absolute;
-  top: 37.5%;
+  top: 37%;
   left: 29.3%;
   width: 7.271%;
   z-index: 1;
@@ -19,7 +19,7 @@
 
 #chimmy {
   position: absolute;
-  top: 37.5%;
+  top: 37%;
   left: 38%;
   width: 8.132%;
   z-index: 1;
@@ -197,19 +197,17 @@
 
 #album-covers {
   position: absolute;
-  opacity: 50%;
-  background-color: pink;
-  width: 16%;
-  height: 38%;
+  width: 16.5%;
+  height: 44%;
   right: 2%;
   top: 48%;
   z-index: 1;
 }
 
 .album-cover {
-  width: 44%;
-  height: 30%;
-  border-radius: 5%;
+  width: 47%;
+  height: 28.5%;
+  border-radius: 10%;
 }
 
 #dean {
