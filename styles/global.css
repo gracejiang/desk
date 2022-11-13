@@ -12,12 +12,13 @@
 body {
     margin: 0px;
     padding: 0px;
+    background-color: var(--tan);
+    min-height: 100vh;
 }
 
 .page-container {
     font-family: 'Karla', sans-serif;
     text-align: center;
-    background-color: var(--tan);
     font-weight: 400;
     letter-spacing: 0.01rem;
     font-size: 1rem;

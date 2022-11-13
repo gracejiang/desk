@@ -1,6 +1,7 @@
 #billboard-section {
   position: relative;
-  margin-top: 80px;
+  margin: auto;
+  width: 75%;
 }
 
 #billboard-bg {
@@ -39,15 +40,15 @@
 #todo-list h2 {
   margin-top: 6%;
   margin-bottom: 0px;
-  font-size: 1.8vw;
+  font-size: 1.4vw;
   vertical-align: 0px;
   text-align: center;
 }
 
 #todo-list div {
   display: inline-block;
-  height: 1.2vw;
-  width: 1.2vw;
+  height: 1.1vw;
+  width: 1.1vw;
   border: 0.14vw solid black;
   margin: 0px;
   margin-left: 10%;
@@ -57,10 +58,10 @@
 #todo-list p {
   padding: 0px;
   display: inline-block;
-  font-size: 1.3vw;
+  font-size: 1.1vw;
   vertical-align: 0px;
   margin: 0px;
-  margin-top: 6%;
+  margin-top: 5%;
   margin-left: 5%;
 }
 
@@ -72,21 +73,21 @@
   z-index: 2;
   background-color: #DAFBCB;
   width: 15.951%;
-  height: 20%;
+  height: 21%;
   text-align: left;
 }
 
 #inspo-list h2 {
   margin-top: 3%;
   margin-bottom: 0px;
-  font-size: 1.8vw;
+  font-size: 1.4vw;
   vertical-align: 0px;
   text-align: center;
 }
 
 #inspo-list p {
   padding: 0px;
-  font-size: 1.2vw;
+  font-size: 1vw;
   vertical-align: 0px;
   margin: 0px;
   margin-top: 2%;
