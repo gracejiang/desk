@@ -8,6 +8,22 @@
   z-index: -1;
 }
 
+#marshal {
+  position: absolute;
+  top: 39.5%;
+  left: 29.3%;
+  width: 7.271%;
+  z-index: 1;
+}
+
+#chimmy {
+  position: absolute;
+  top: 39.5%;
+  left: 38%;
+  width: 8.132%;
+  z-index: 1;
+}
+
 #todo-list {
   font-family: "Caveat", monospace;
   opacity: 50%;
@@ -49,18 +65,33 @@
   margin-left: 5%;
 }
 
-#marshal {
+#inspo-list {
+  font-family: "Caveat", monospace;
+  opacity: 50%;
   position: absolute;
-  top: 39.5%;
-  left: 29.3%;
-  width: 7.271%;
-  z-index: 1;
+  top: 25.6%;
+  left: 48.8%;
+  z-index: 2;
+  background-color: #DAFBCB;
+  width: 15.951%;
+  height: 20%;
+  text-align: left;
 }
 
-#chimmy {
-  position: absolute;
-  top: 39.5%;
-  left: 38%;
-  width: 8.132%;
-  z-index: 1;
+#inspo-list h2 {
+  margin-top: 3%;
+  margin-bottom: 0px;
+  font-size: 2vw;
+  vertical-align: 0px;
+  text-align: center;
 }
+#inspo-list p {
+  padding: 0px;
+  font-size: 1.3vw;
+  vertical-align: 0px;
+  margin: 0px;
+  margin-top: 2%;
+  margin-left: 10%;
+}
+
+
