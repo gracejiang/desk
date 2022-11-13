@@ -26,7 +26,6 @@
 
 #todo-list {
   font-family: "Caveat", monospace;
-  opacity: 50%;
   position: absolute;
   top: 14.2%;
   left: 34.1%;
@@ -38,7 +37,7 @@
 }
 
 #todo-list h2 {
-  margin-top: 3%;
+  margin-top: 6%;
   margin-bottom: 0px;
   font-size: 2vw;
   vertical-align: 0px;
@@ -67,7 +66,6 @@
 
 #inspo-list {
   font-family: "Caveat", monospace;
-  opacity: 50%;
   position: absolute;
   top: 25.6%;
   left: 48.8%;
@@ -98,4 +96,21 @@
   color: inherit;
   border-bottom: 0.1vw dotted;
   text-decoration: none;
+}
+
+#map {
+  position: absolute;
+  top: 13.3%;
+  left: 69%;
+  width: 24.547%;
+  height: 20%;
+  z-index: 1;
+  padding: 3% 1.2% 4% 3%;
+  background-color: #6A89CB;
+  text-align: center;
+}
+
+#map img {
+  width: 100%;
+  margin: auto;
 }
