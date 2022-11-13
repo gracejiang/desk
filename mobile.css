@@ -1,0 +1,26 @@
+@media (max-width: 720px) {
+  .page-container {
+    padding: 5vw 10px 5vw 10px;
+  }
+
+  #mobile-note {
+    display: block;
+    background-color: var(--green);
+    padding: 16px 10px 16px 10px;
+    font-size: 1rem;
+    text-align: center;
+    font-family: "IBM Plex Mono", monospace;
+    color: white;
+  }
+
+  #todo-list h2,
+  #todo-list p,
+  #todo-list div {
+    display: none;
+  }
+
+  #inspo-list h2,
+  #inspo-list p {
+    display: none;
+  }
+}
