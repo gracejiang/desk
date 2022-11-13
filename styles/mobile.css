@@ -23,4 +23,8 @@
   #inspo-list p {
     display: none;
   }
+
+  #monitor-window {
+    height: 15vw;
+  }
 }
