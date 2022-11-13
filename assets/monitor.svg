@@ -3,9 +3,4 @@
 <rect x="309" y="351" width="21" height="85" fill="#5B5B5B"/>
 <ellipse cx="319.5" cy="460.5" rx="129.5" ry="32.5" fill="#5B5B5B"/>
 <rect x="21" y="18" width="600" height="333" fill="#F2E0EA"/>
-<rect x="115" y="63" width="387" height="245" rx="10" fill="white"/>
-<path d="M115 73C115 67.4772 119.477 63 125 63H492C497.523 63 502 67.4772 502 73V85H115V73Z" fill="#5B5B5B"/>
-<circle cx="129.287" cy="74.4296" r="5.71476" fill="#ED6A5E"/>
-<circle cx="146.431" cy="74.4296" r="5.71476" fill="#F4BE4E"/>
-<circle cx="163.575" cy="74.4296" r="5.71476" fill="#60C454"/>
 </svg>

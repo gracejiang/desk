@@ -24,20 +24,31 @@
     display: none;
   }
 
-  #monitor-window {
+  #spotify-window {
     height: 15vw;
+    padding: 0px;
+    margin: 0px;
+    top: -200%;
+    background-color: white;
   }
 
-  #monitor-window p {
+  #spotify-window img {
+    padding: 0px;
+    margin: 0px;
+    transform: translatey(-100%)
+  }
+
+  #spotify-window p {
+    background-color: white;
     display: block;
     text-align: center;
     margin-top: 2vw;
-    font-size: 0.8rem;
+    font-size: 3vw;
     color: #5B5B5B;
     font-family: "IBM Plex Mono", monospace;
   }
 
-  #monitor-window iframe {
+  #spotify-window iframe {
     display: none;
   }
 
