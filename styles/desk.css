@@ -1,8 +1,18 @@
 #desk-section {
     margin-top: 3vw;
     width: 100%;
+    position: relative;
 }
 
-#desk-section img {
+#desk {
     width: 100%;
+    z-index: -1;
+}
+
+#plant {
+    position: absolute;
+    top: -150%;
+    left: 10%;
+    z-index: 1;
+    width: 15%;
 }
