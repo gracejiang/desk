@@ -40,4 +40,9 @@
   #monitor-window iframe {
     display: none;
   }
+
+  #polaroid-pic-1, #polaroid-pic-2, #polaroid-pic-3, #photo-pic-1 {
+    background-image: none;
+    background-color: #D9D9D9;
+  }
 }

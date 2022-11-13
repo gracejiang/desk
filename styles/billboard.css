@@ -45,6 +45,16 @@
   left: 15%;
 }
 
+#polaroid-3 {
+  position: absolute;
+  width: 12.136%;
+  height: 29%;
+  z-index: 1;
+  background-color: white;
+  top: 68%;
+  left: 6%;
+}
+
 .polaroid-pic {
   position: absolute;
   top: 9%;
@@ -54,8 +64,38 @@
   background-size: cover;
 }
 
-#pic-2 {
-  background-image: url('assets/polaroid-2.png');
+#polaroid-pic-1 {
+  background-image: url('../assets/polaroid-1.svg')
+}
+
+#polaroid-pic-2 {
+  background-image: url('../assets/polaroid-2.png');
+}
+
+#polaroid-pic-3 {
+  background-image: url('../assets/polaroid-3.png');
+}
+
+#photo-1 {
+  background-color: white;
+  position: absolute;
+  top: 45.7%;
+  left: 2%;
+  width: 18.58%;
+  height: 20%;
+}
+
+.photo-pic {
+  position: absolute;
+  top: 9%;
+  left: 6%;
+  width: 88%;
+  height: 82%;
+  background-size: cover;
+}
+
+#photo-pic-1 {
+  background-image: url('../assets/photo-pic-1.png');
 }
 
 #todo-list {
@@ -94,8 +134,8 @@
   font-size: 1.1vw;
   vertical-align: 0px;
   margin: 0px;
-  margin-top: 5%;
-  margin-left: 5%;
+  margin-top: 4.5%;
+  margin-left: 3%;
 }
 
 #inspo-list {
@@ -153,4 +193,57 @@
 #map img {
   width: 100%;
   margin: auto;
+}
+
+#album-covers {
+  position: absolute;
+  opacity: 50%;
+  background-color: pink;
+  width: 16%;
+  height: 38%;
+  right: 2%;
+  top: 48%;
+  z-index: 1;
+}
+
+.album-cover {
+  width: 44%;
+  height: 30%;
+  border-radius: 5%;
+}
+
+#dean {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#kezai {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+#dcaesar {
+  position: absolute;
+  left: 0;
+  top: 33%;
+}
+
+#hitc {
+  position: absolute;
+  right: 0;
+  top: 33%;
+}
+
+#iu {
+  position: absolute;
+  left: 0;
+  top: 66%;
+}
+
+#hyukoh {
+  position: absolute;
+  right: 0;
+  top: 66%;
 }
