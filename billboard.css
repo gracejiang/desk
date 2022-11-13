@@ -1,0 +1,66 @@
+#billboard-section {
+  margin-top: 80px;
+  position: relative;
+}
+
+#billboard-bg {
+  width: 100%;
+  z-index: -1;
+}
+
+#todo-list {
+  font-family: "Caveat", monospace;
+  opacity: 50%;
+  position: absolute;
+  top: 14.2%;
+  left: 34.1%;
+  z-index: 2;
+  background-color: #FBF6CB;
+  width: 18.751%;
+  height: 19.5%;
+  text-align: left;
+}
+
+#todo-list h2 {
+  margin-top: 3%;
+  margin-bottom: 0px;
+  font-size: 2vw;
+  vertical-align: 0px;
+  text-align: center;
+}
+
+#todo-list div {
+  display: inline-block;
+  height: 1.2vw;
+  width: 1.2vw;
+  border: 0.14vw solid black;
+  margin: 0px;
+  margin-left: 10%;
+  transform: translateY(15%);
+}
+
+#todo-list p {
+  padding: 0px;
+  display: inline-block;
+  font-size: 1.3vw;
+  vertical-align: 0px;
+  margin: 0px;
+  margin-top: 6%;
+  margin-left: 5%;
+}
+
+#marshal {
+  position: absolute;
+  top: 39.5%;
+  left: 29.3%;
+  width: 7.271%;
+  z-index: 1;
+}
+
+#chimmy {
+  position: absolute;
+  top: 39.5%;
+  left: 38%;
+  width: 8.132%;
+  z-index: 1;
+}
