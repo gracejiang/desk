@@ -16,3 +16,20 @@
     z-index: 1;
     width: 15%;
 }
+
+#boba {
+    position: absolute;
+    right: 13.5%;
+    top: -145%;
+    width: 9%;
+    z-index: 1;
+}
+
+#desk-mat {
+    position: absolute;
+    top: 13%;
+    left: 18%;
+    z-index: 0;
+    width: 64%;
+}
+
