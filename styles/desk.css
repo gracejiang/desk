@@ -2,7 +2,9 @@
     margin-top: 5vw;
     width: 100%;
     position: relative;
+    animation: fadeIn 0.3s;
 }
+  
 
 #desk {
     width: 100%;
