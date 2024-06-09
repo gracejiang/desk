@@ -56,6 +56,15 @@
   left: 6%;
 }
 
+#polaroid-4 {
+  background-color: white;
+  position: absolute;
+  top: 45.7%;
+  left: 2%;
+  width: 18.58%;
+  height: 20%;
+}
+
 .polaroid-pic {
   position: absolute;
   top: 9%;
@@ -66,37 +75,29 @@
 }
 
 #polaroid-pic-1 {
-  background-image: url('../assets/polaroid-1.svg')
+  background-image: url('../assets/polaroids/polaroid-1.png')
 }
 
 #polaroid-pic-2 {
-  background-image: url('../assets/polaroid-2.png');
+  background-image: url('../assets/polaroids/polaroid-2.png');
 }
 
 #polaroid-pic-3 {
-  background-image: url('../assets/polaroid-3.png');
+  background-image: url('../assets/polaroids/polaroid-3.png');
 }
 
-#photo-1 {
-  background-color: white;
-  position: absolute;
-  top: 45.7%;
-  left: 2%;
-  width: 18.58%;
-  height: 20%;
+#polaroid-pic-4 {
+  background-image: url('../assets/polaroids/polaroid-4.png');
 }
 
-.photo-pic {
+
+.horizontal-polaroid-pic {
   position: absolute;
   top: 9%;
   left: 6%;
   width: 88%;
   height: 82%;
   background-size: cover;
-}
-
-#photo-pic-1 {
-  background-image: url('../assets/photo-pic-1.png');
 }
 
 #todo-list {
@@ -212,46 +213,46 @@
   background-size: cover;
 }
 
-#dean {
+#album-1 {
   position: absolute;
   left: 0;
   top: 0;
-  background-image: url("../assets/album_art/dean.png");
+  background-image: url("../assets/album_art/album-1.png");
 }
 
-#kezai {
+#album-2 {
   position: absolute;
   right: 0;
   top: 0;
-  background-image: url("../assets/album_art/kezai.png");
+  background-image: url("../assets/album_art/album-2.png");
 }
 
-#dcaesar {
+#album-3 {
   position: absolute;
   left: 0;
   top: 33%;
-  background-image: url("../assets/album_art/dcaesar.png");
+  background-image: url("../assets/album_art/album-3.png");
 }
 
-#hitc {
+#album-4 {
   position: absolute;
   right: 0;
   top: 33%;
-  background-image: url("../assets/album_art/hitc.png");
+  background-image: url("../assets/album_art/album-4.png");
 }
 
-#iu {
+#album-5 {
   position: absolute;
   left: 0;
   top: 66%;
-  background-image: url("../assets/album_art/iu.png");
+  background-image: url("../assets/album_art/album-5.png");
 }
 
-#hyukoh {
+#album-6 {
   position: absolute;
   right: 0;
   top: 66%;
-  background-image: url("../assets/album_art/hyukoh.png");
+  background-image: url("../assets/album_art/album-6.png");
 }
 
 #pl-krnb, #pl-cpop, #pl-still-nights, #pl-sunset-drives, #pl-kbops {
